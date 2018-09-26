@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1516664879 source:c:\users\thoma\onedrive\documents\python programs\oop\new folder\easycalculator\main.cpp
+	<iostream>
+	<string>
+	<array>
+	<vector>
+
+1516828693 source:c:\users\thoma\documents\programs\oop\gilman-thomas_lab1_1-22-2017\easycalculator\main.cpp
+	<iostream>
+	<string>
+	<array>
+	<vector>
+

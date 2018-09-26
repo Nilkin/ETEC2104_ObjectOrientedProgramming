@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1518045491 source:c:\users\thoma\documents\programs\oop\gilman-thomas_lab2_2-5-2018\assignment 2\doublelinkedlist\main.cpp
+	<myLinkedList.h>
+
+1518045479 c:\users\thoma\documents\programs\oop\gilman-thomas_lab2_2-5-2018\assignment 2\doublelinkedlist\include\mylinkedlist.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1518045934 source:c:\users\thoma\documents\programs\oop\gilman-thomas_lab2_2-5-2018\assignment 2\doublelinkedlist\src\mylinkedlist.cpp
+	"myLinkedList.h"
+

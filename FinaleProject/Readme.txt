@@ -1,0 +1,1 @@
+Not finished yet, need to fix running off array in ringcounter

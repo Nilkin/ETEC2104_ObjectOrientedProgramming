@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1518645079 source:c:\users\thoma\documents\programs\oop\gilman-thomas_lab3_2-7-2018\fileio\main.cpp
+	<fstream>
+	<FileWrite.h>
+
+1518645997 c:\users\thoma\documents\programs\oop\gilman-thomas_lab3_2-7-2018\fileio\include\filewrite.h
+	<iostream>
+	<fstream>
+
+1519077687 source:c:\users\thoma\onedrive\documents\programs\oop\gilman-thomas_lab3_2-7-2018\fileio\main.cpp
+	<fstream>
+	<iostream>
+	<FileWrite.h>
+	<FileRead.h>
+
+1519079387 c:\users\thoma\onedrive\documents\programs\oop\gilman-thomas_lab3_2-7-2018\fileio\include\filewrite.h
+	<fstream>
+	<iostream>
+	<string>
+
+1519079385 c:\users\thoma\onedrive\documents\programs\oop\gilman-thomas_lab3_2-7-2018\fileio\include\fileread.h
+	<fstream>
+	<iostream>
+	<string>
+
+1519077689 source:c:\users\thoma\onedrive\documents\programs\oop\gilman-thomas_lab3_2-7-2018\fileio\src\filewrite.cpp
+	"FileWrite.h"
+
+1519077532 source:c:\users\thoma\onedrive\documents\programs\oop\gilman-thomas_lab3_2-7-2018\fileio\src\fileread.cpp
+	"FileRead.h"
+
+1519079360 c:\users\thoma\onedrive\documents\programs\oop\gilman-thomas_lab3_2-7-2018\fileio\include\file.h
+

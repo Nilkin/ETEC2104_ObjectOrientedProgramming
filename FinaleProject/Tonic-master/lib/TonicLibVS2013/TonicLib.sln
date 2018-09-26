@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TonicLib", "TonicLib.vcxproj", "{DA022B2D-D880-4BAB-9CDF-B916F7B6879E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA022B2D-D880-4BAB-9CDF-B916F7B6879E}.Debug|x86.ActiveCfg = Debug|Win32
+		{DA022B2D-D880-4BAB-9CDF-B916F7B6879E}.Debug|x86.Build.0 = Debug|Win32
+		{DA022B2D-D880-4BAB-9CDF-B916F7B6879E}.Release|x86.ActiveCfg = Release|Win32
+		{DA022B2D-D880-4BAB-9CDF-B916F7B6879E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52AF20FA-53EA-4F8E-85D1-E1BFD389C073}
+	EndGlobalSection
+EndGlobal

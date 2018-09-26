@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1519681862 source:c:\users\thoma\onedrive\documents\programs\oop\gilman-thomas_lab4_2-26-2018\chessreader\src\filerw.cpp
+	"FileRW.h"
+
+1519682112 c:\users\thoma\onedrive\documents\programs\oop\gilman-thomas_lab4_2-26-2018\chessreader\include\filerw.h
+	<fstream>
+	<iostream>
+	<string.h>
+
+1519685383 source:c:\users\thoma\onedrive\documents\programs\oop\gilman-thomas_lab4_2-26-2018\chessreader\main.cpp
+	<fstream>
+	<iostream>
+	<FileRW.h>
+	<string.h>
+	<ChessBoard.h>
+
+1519685981 c:\users\thoma\onedrive\documents\programs\oop\gilman-thomas_lab4_2-26-2018\chessreader\include\chessboard.h
+	<iostream>
+
+1521063014 source:c:\users\thoma\onedrive\documents\programs\etec 2104 object oriented programming\gilman-thomas_lab4_2-26-2018\chessreader\src\filerw.cpp
+	"FileRW.h"
+
+1520891049 c:\users\thoma\onedrive\documents\programs\etec 2104 object oriented programming\gilman-thomas_lab4_2-26-2018\chessreader\include\filerw.h
+	<fstream>
+	<iostream>
+	<string.h>
+
+1521064860 source:c:\users\thoma\onedrive\documents\programs\etec 2104 object oriented programming\gilman-thomas_lab4_2-26-2018\chessreader\main.cpp
+	<fstream>
+	<iostream>
+	<FileRW.h>
+	<string.h>
+	<ChessBoard.h>
+
+1522083775 c:\users\thoma\onedrive\documents\programs\etec 2104 object oriented programming\gilman-thomas_lab4_2-26-2018\chessreader\include\chessboard.h
+	<iostream>
+	<Piece.h>
+	<FileRW.h>
+
+1521060789 c:\users\thoma\onedrive\documents\programs\etec 2104 object oriented programming\gilman-thomas_lab4_2-26-2018\chessreader\include\piece.h
+
+1521060787 source:c:\users\thoma\onedrive\documents\programs\etec 2104 object oriented programming\gilman-thomas_lab4_2-26-2018\chessreader\src\piece.cpp
+	"Piece.h"
+
+1521063381 source:c:\users\thoma\onedrive\documents\programs\etec 2104 object oriented programming\gilman-thomas_lab4_2-26-2018\chessreader\src\chessboard.cpp
+	"ChessBoard.h"
+
